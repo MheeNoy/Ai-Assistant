@@ -1,0 +1,10 @@
+ 
+
+ pip install  pyttsx3
+ pip install webbrowser
+ pip install wikipedia
+ pip install wolframalpha
+
+AppId give from https://account.wolfram.com/login
+
+file PyAudio-0.2.11-cp311-cp311-win_amd64 give from https://www.lfd.uci.edu/~gohlke/pythonlibs/
